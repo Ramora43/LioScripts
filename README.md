@@ -1,5 +1,5 @@
 # LioScripts
-We Didn't Made This Script This Made BY jimathy
+We Didn't Made This Script,This was Made BY jimathy
 Original Script 
 https://github.com/jimathy/jim-mining
 We Change This Script From QBCORE To QBX
