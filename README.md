@@ -12,6 +12,7 @@ Discord - https://discord.gg/rU3h6g64sb
 
 Item List
  --jim minning
+ 
     ["stone"] = {
         label = "Stone",
         weight = 200, 
